@@ -1,6 +1,7 @@
 **NEW YORK DAY BY DAY; Year of Renovation For Yorkville Library**
 ==
 **By David W. Dunlap**
+
 **Feb. 15, 1986**
     
 If you have not returned the Harold Robbins novel and the history of Hegelian thought you borrowed from the Yorkville branch of the New York Public Library last summer, do it quickly. The branch, at 222 East 79th Street, is closing Monday for a year of renovation.
