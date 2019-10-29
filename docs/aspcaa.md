@@ -1,2 +1,2 @@
-![aspca](../images/aspca.jpg)
+![aspcaa](../images/aspcaa.jpg)
 
