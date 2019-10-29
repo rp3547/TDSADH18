@@ -19,4 +19,5 @@ Once solidly German and Irish, the Yorkville section is becoming a neighborhood 
 ''Yes,'' the head librarian at the branch, Rosemary Doyle, said, ''yuppies. They come in on Saturday mornings in their Gucci loafers and head straight for the Standard & Poor's. They know exactly what they want.''
 
 For those and 60,000 other book lovers who use the branch, the nearest library is the Webster branch, at 1465 York Avenue, near 78th Street. It will have to do until the refurbishing at Yorkville is finished next February.
-![newyorkdaybyday.pdf](../images/newyorkdaybyday.pdf)
+
+![https://timesmachine.nytimes.com/timesmachine/1986/02/15/issue.html(../images/newyorkdaybyday.pdf)
