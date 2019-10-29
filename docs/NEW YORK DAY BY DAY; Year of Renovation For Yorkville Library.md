@@ -20,4 +20,4 @@ Once solidly German and Irish, the Yorkville section is becoming a neighborhood 
 
 For those and 60,000 other book lovers who use the branch, the nearest library is the Webster branch, at 1465 York Avenue, near 78th Street. It will have to do until the refurbishing at Yorkville is finished next February.
 
-![NY DAY BY DAY](../images/NYDAYBYDAY.png)
+![NY DAY BY DAY](..images/NY DAY BY DAY.png)
