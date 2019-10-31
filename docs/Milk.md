@@ -8,4 +8,5 @@
     
  YORKVILLE
 <sup><a href="#fn1" id="ref1">1</a></sup>
+
 <sup id="fn1">1. [The New York Times]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
