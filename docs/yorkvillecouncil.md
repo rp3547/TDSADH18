@@ -1,6 +1,6 @@
 
-<center>**Gala for Yorkville Council**
-**&nbsp;&nbsp;&nbsp; Proceeds from the June 22 
+<center>**Gala for Yorkville Council
+&nbsp;&nbsp;&nbsp; Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropo
 litan Opera House will go 
