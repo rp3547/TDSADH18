@@ -1,5 +1,5 @@
 
-<center>**Gala for Yorkville Council**</center> 
+**Gala for Yorkville Council**
 
 **&nbsp; Proceeds from the June 22 
 performance by the American
