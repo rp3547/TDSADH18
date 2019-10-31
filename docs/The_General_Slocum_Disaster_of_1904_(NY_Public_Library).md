@@ -10,13 +10,13 @@ Most of the passengers were women and children. As the ship made its way up the 
 
 ![The Damage](../images/The_Damage.jpg)
 
-The Aftermath
+**The Aftermath**
 
 For days afterward, bodies would wash ashore. Only 321 passengers survived from a total of 1,358 passengers. The final death count totaled 1,021. The next largest death toll in the United States would come decades later with 2,974 dead from 9/11.
 
 There would be miracle stories of survivors for the lucky few and heartbreak for those who lost loved ones. It was widely reported that Captain William Henry Van Schaick would not bring the ship to shore for insurance reasons. Instead, Van Schaick steered the burning ship to North Brother Island. Van Schaick would testify that gas tanks and lumber yards made landing near 130th Street, close to the Bronx, dangerous.
 
-Testimony and Partial Justice
+**Testimony and Partial Justice**
 
 Testimony that would follow in the days ahead established that there were few safeguards; life vests were rotten, life boats were in the same state, fire drills were non-existent, and the crew was untrained to handle the panic that followed on board the Slocum. Eyewitnesses from the shore could see the boat burning and wondered why the captain did not come to shore.  Quickly, Van Schaick and the Knickerbocker Steamboat Company came under the crosshairs of an investigation. Frank A. Barnaby, the President of the company, defended the actions of the captain and the crew.
 
