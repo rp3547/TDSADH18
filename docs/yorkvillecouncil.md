@@ -1,11 +1,10 @@
 
-<center>**Gala for Yorkville Council
-&nbsp;&nbsp;&nbsp; Proceeds from the June 22 
+<center>**Gala for Yorkville Council***<center>
+  
+<center>&nbsp;&nbsp;&nbsp;**Proceeds from the June 22 
 performance by the American
-Ballet Theater at the Metropo
-litan Opera House will go 
-to the Yorkville Youth Coun-
-cil. Tickets, at $30, $55 and
+Ballet Theater at the Metropolitan Opera House will go 
+to the Yorkville Youth Council. Tickets, at $30, $55 and
 $75, are available from Mrs.
 Gillette Boland, 40 East 68th
 Street, as are $10 tickets for
