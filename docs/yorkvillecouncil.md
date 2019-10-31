@@ -1,9 +1,7 @@
 
-
-
-
 <center>**Gala for Yorkville Council**</center> 
 ===
+
 **&nbsp; Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropo-
