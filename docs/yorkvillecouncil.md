@@ -1,7 +1,6 @@
 
-**Gala for Yorkville Council**
-
-**&nbsp; Proceeds from the June 22 
+<center>**Gala for Yorkville Council**
+**&nbsp;&nbsp;&nbsp; Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropo
 litan Opera House will go 
@@ -12,7 +11,7 @@ Gillette Boland, 40 East 68th
 Street, as are $10 tickets for
 a pre-performance supper at
 the Opera Club to meet Yoko 
-Morishita, the dancer.**
+Morishita, the dancer.**&nbsp;&nbsp;&nbsp;<center>
 
 
 
