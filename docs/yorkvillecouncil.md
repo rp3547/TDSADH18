@@ -1,6 +1,5 @@
 
-**Gala for Yorkville Council**
-  
+**<h1>Gala for Yorkville Council</h1>**
 &nbsp;&nbsp;&nbsp;**<p1 style = "justify- middle">Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropolitan Opera House will go 
