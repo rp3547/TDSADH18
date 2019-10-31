@@ -25,3 +25,11 @@ On January 27, 1906, justice was meted out to Captain Van Schaick by a jury of t
 Van Schaick would serve only part of his sentence at Sing Sing prison. He received a pardon (through the efforts of his wife) from President William Howard Taft in 1911. 
 
 ![Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St.](../images/Burial.jpg)
+
+**German-American Community of the Lower East Side**
+
+Prior to the Slocum disaster, the German-American community was a vibrant and active neighborhood of the working-class and highly educated. The shock of losing so many loved ones devastated families.  Suicides and depression resulted from such a loss and many residents moved away. Other communities were impacted as well. There was a loss of life among the Jewish and Italian communities that had family members aboard the ship.
+
+**Remembrance**
+
+Standing in Tompkins Square Park is a Tennessee marble obelisk dedicated to the victims of the General Slocum disaster. The fountain was erected in 1906 by the Sympathy Society of German Ladies. Etched into the marble are these words: "They are Earth's purest children, young and fair." 
