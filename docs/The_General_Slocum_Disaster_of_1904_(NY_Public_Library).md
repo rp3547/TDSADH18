@@ -22,4 +22,6 @@ Testimony that would follow in the days ahead established that there were few sa
 
 On January 27, 1906, justice was meted out to Captain Van Schaick by a jury of the United States Circuit Court. He was found guilty of criminal negligence that he had failed to maintain the fire drills required by law. Judge Thomas, the presiding judge, sentenced Van Schaick to 10 years at hard labor. And what happened to the company that owned the ship and the director? The Knickerbocker Steamboat Company and Frank Barnaby escaped justice. 
 
-Van Schaick would serve only part of his sentence at Sing Sing prison. He received a pardon (through the efforts of his wife) from President William Howard Taft in 1911.  
+Van Schaick would serve only part of his sentence at Sing Sing prison. He received a pardon (through the efforts of his wife) from President William Howard Taft in 1911. 
+
+![Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St.](../images/Burial.jpg)
