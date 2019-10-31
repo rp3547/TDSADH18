@@ -13,7 +13,7 @@ in which animals are to be kept. All windows must be closed and inoperable. The 
 The new structure is to be erected on 20,306 square feet in a residence zone near the Franklin D. Roosevelt Drive. Directly to the north of the plot is a playground. An asphalt plant stands about two blocks to the southeast.
 
 Construction of the new building is to begin in two months and should be finished in about a year.
-The present property of the ASPCA at Twenty-fourth Street and Avenue A has been taken by the United States Government for a veterans hospital, and the society must move out in 1950.\
+The present property of the ASPCA at Twenty-fourth Street and Avenue A has been taken by the United States Government for a veterans hospital, and the society must move out in 1950.
 
 The New York Times
 Published: July 21, 1949
