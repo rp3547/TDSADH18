@@ -1,4 +1,5 @@
-The General Slocum Disaster of June 15, 1904===
+The General Slocum Disaster of June 15, 1904
+==
 
 by Valerie Wingfield, Archives Unit
 
