@@ -1,8 +1,8 @@
 
-
+<blockquote>
 
 **<h1>Gala for Yorkville Council</h1>**
-&nbsp;&nbsp;&nbsp;**<p1 style = "justify- middle">Proceeds from the June 22 
+&nbsp;&nbsp;&nbsp;<p>**Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropolitan Opera House will go 
 to the Yorkville Youth Council. Tickets, at $30, $55 and
@@ -16,6 +16,9 @@ Morishita, the dancer.**</p1>&nbsp;&nbsp;&nbsp;
 
 ![yorkvillegala](../images/yorkvillegala.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![newspaper1976](../images/newspaper1976.png)
+![newspaper1976](../images/newspaper1976.png)/<p>
 
 
+<blockquote>
+  
+  <p1 style = "justify- middle">
