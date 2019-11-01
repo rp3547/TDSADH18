@@ -1,8 +1,8 @@
 
-![yorkvillegala](../images/yorkvillegala.png)
+![yorkville gala](../images/yorkvillegala.png)
 
 
-![newspaper1976](../images/newspaper1976.png)
+![newspaper 1976](../images/newspaper1976.png)
 
 
 **<h1>Gala for Yorkville Council</h1>**
