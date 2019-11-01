@@ -1,8 +1,5 @@
 
-![yorkvillegala](../images/yorkvillegala.png)
 
-
-![newspaper1976](../images/newspaper1976.png)
 
 **<h1>Gala for Yorkville Council</h1>**
 &nbsp;&nbsp;&nbsp;**<p1 style = "justify- middle">Proceeds from the June 22 
@@ -17,7 +14,8 @@ the Opera Club to meet Yoko
 Morishita, the dancer.**</p1>&nbsp;&nbsp;&nbsp;
 
 
+&nbsp;&nbsp;&nbsp;![yorkvillegala](../images/yorkvillegala.png)
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;![newspaper1976](../images/newspaper1976.png)
 
 
