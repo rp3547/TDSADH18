@@ -2,7 +2,7 @@
 <blockquote>
 
 **<h1>Gala for Yorkville Council</h1>**
-&nbsp;&nbsp;&nbsp;<p> **Proceeds from the June 22 
+&nbsp;&nbsp;&nbsp;<p><p><p>**Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropolitan Opera House will go 
 to the Yorkville Youth Council. Tickets, at $30, $55 and
