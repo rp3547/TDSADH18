@@ -1,10 +1,5 @@
 
 <blockquote>
-<style>
-.h1{
-  text-allign: center;
-}
-</style>
 **<h1 =class "h1"><pre><code>Gala for Yorkville Council</h1>**
 **Proceeds from the June 22 
 performance by the American
@@ -16,7 +11,11 @@ Street, as are $10 tickets for
 a pre-performance supper at
 the Opera Club to meet Yoko 
 Morishita, the dancer.**</p1>
-
+<style>
+.h1{
+  text-allign: center;
+}
+</style>
 
 ![newspaper1976](../images/newspaper1976.png)
 ![yorkvillegala](../images/yorkvillegala.png)</code></pre<
