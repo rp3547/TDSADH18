@@ -4,7 +4,6 @@
 
 ![newspaper1976](../images/newspaper1976.png)
 
-
 **<h1>Gala for Yorkville Council</h1>**
 &nbsp;&nbsp;&nbsp;**<p1 style = "justify- middle">Proceeds from the June 22 
 performance by the American
