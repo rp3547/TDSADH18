@@ -11,6 +11,7 @@ a pre-performance supper at
 the Opera Club to meet Yoko 
 Morishita, the dancer.**</p1>&nbsp;&nbsp;&nbsp;
 
+===
 ![yorkvillegala](../images/yorkvillegala.png)
 
 
