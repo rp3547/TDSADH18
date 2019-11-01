@@ -14,8 +14,8 @@ the Opera Club to meet Yoko
 Morishita, the dancer.**</p1>&nbsp;&nbsp;&nbsp;
 
 
-&nbsp;&nbsp;&nbsp;![yorkvillegala](../images/yorkvillegala.png)
+![yorkvillegala](../images/yorkvillegala.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;![newspaper1976](../images/newspaper1976.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![newspaper1976](../images/newspaper1976.png)
 
 
