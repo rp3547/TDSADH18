@@ -17,6 +17,8 @@ Chartered by the St. Mark's Evangelical Lutheran Church for $350.00, the passeng
 Most of the passengers were women and children. As the ship made its way up the East River, good times turned bad very quickly. There have been varying accounts of how the fire started, but it spread rapidly within a half hour of leaving dock around 9 a.m. The panic was horrific among the passengers as they faced death by drowning or being burned alive on the ship. It was a safe bet that most of the passengers could not swim, and the period clothing of the day worked against them. 
 
 ![The Damage](../images/The_Damage.jpg)
+*Steamer ‘Gen. Slocum’ June 15, 1904 above; North Brothers Island, East River, N.Y. below. Image ID: PS_MSS_CD8_109*
+
 
 **The Aftermath**
 
