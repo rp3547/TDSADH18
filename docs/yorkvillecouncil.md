@@ -1,8 +1,8 @@
 
 <blockquote>
 
-**<h1>Gala for Yorkville Council</h1>**
-&nbsp;&nbsp;&nbsp;<p>**Proceeds from the June 22 
+**<h1><pre><code>Gala for Yorkville Council</h1>**
+**Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropolitan Opera House will go 
 to the Yorkville Youth Council. Tickets, at $30, $55 and
@@ -11,12 +11,12 @@ Gillette Boland, 40 East 68th
 Street, as are $10 tickets for
 a pre-performance supper at
 the Opera Club to meet Yoko 
-Morishita, the dancer.**</p1>&nbsp;&nbsp;&nbsp;
+Morishita, the dancer.**</p1>
 
 
 ![yorkvillegala](../images/yorkvillegala.png)
 
-![newspaper1976](../images/newspaper1976.png)/<p>
+![newspaper1976](../images/newspaper1976.png)</code></pre<
 
 
 <blockquote>
