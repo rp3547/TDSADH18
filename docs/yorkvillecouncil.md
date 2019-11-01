@@ -1,7 +1,7 @@
 
 <blockquote>
 
-**<h1><pre><code>Gala for Yorkville Council</h1>**
+**<h1 style = "text-allign: center"><pre><code>Gala for Yorkville Council</h1>**
 **Proceeds from the June 22 
 performance by the American
 Ballet Theater at the Metropolitan Opera House will go 
