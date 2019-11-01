@@ -35,6 +35,7 @@ On January 27, 1906, justice was meted out to Captain Van Schaick by a jury of t
 Van Schaick would serve only part of his sentence at Sing Sing prison. He received a pardon (through the efforts of his wife) from President William Howard Taft in 1911. 
 
 ![Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St.](../images/Burial.jpg)
+*Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St. Image ID: PS_MSS_CD8_106*
 
 **German-American Community of the Lower East Side**
 
