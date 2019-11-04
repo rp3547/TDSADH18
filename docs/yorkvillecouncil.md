@@ -17,6 +17,6 @@ Morishita, the dancer.**</p1>
 ![yorkvillegala](../images/yorkvillegala.png)
 
 
-<blockquote>
+</blockquote>
   
  
