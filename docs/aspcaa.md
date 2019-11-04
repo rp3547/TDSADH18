@@ -1,2 +1,0 @@
-![aspcaa](../images/aspcaa.jpg)
-
