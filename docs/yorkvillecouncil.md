@@ -1,5 +1,4 @@
-
-<blockquote>
+<center>
   
 **<h1> Gala for Yorkville Council</h1>**
 **<p1 style= "text-allign: center;" >Proceeds from the June 22 
@@ -17,6 +16,6 @@ Morishita, the dancer.**</p1>
 ![yorkvillegala](../images/yorkvillegala.png)
 
 
-</blockquote>
+</center>
   
  
