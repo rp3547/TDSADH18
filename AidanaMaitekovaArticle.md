@@ -5,4 +5,4 @@
 
 *"The New York Times",* March 18, 1961 <sup><a href="#fn1" id="ref1">1</a></sup>
 
-![Police Reports](../images/Screen Shot 2019-10-22 at 8.08.40 PM.png)
+![Police Reports](../images/policereports.png)
