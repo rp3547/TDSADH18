@@ -10,3 +10,5 @@
 <sup><a href="#fn1" id="ref1">1</a></sup>
 
 <sup id="fn1">1. [The New York Times](https://timesmachine.nytimes.com/timesmachine/1865/07/28/78746783.pdf)<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+
+![Milk Article Image](../images/ArticleScreenshot.png)
