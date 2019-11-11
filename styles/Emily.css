@@ -18,7 +18,7 @@ applied generally to all displayed text (unless overridden by a more specific ta
 html {
   font-size: 12px;
   font-family: 'Georgia', serif;
-  background-color:  #688A08;
+  background-color:  #e0c9f5;
 }
 
 /*
@@ -51,7 +51,7 @@ The formatting for the body specifies the width withing the page that the conten
 body {
   width: 800px;
   margin: 0 auto;
-  background-color:#6E6E6E;
+  background-color:#f5c9ea;
   padding: 0 20px 20px 20px;
  /*
   border: 5px solid blue;
