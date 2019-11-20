@@ -5,8 +5,7 @@ by Valerie Wingfield, Archives Unit
 
 June 13, 2011
 
-![PS General Slocum](../images/PS_General_Slocum.jpg)
-*Illustration by Samuel Ward Stanton*
+![PS General Slocum](../images/PS_General_Slocum.jpg)*Illustration by Samuel Ward Stanton*
 
 The General Slocum Disaster occurred on June 15, 1904. This tragedy is much less well known compared to the Triangle Shirtwaist Factory Fire of March 25, 1911, and the Titanic Disaster of April 15, 1912. Perhaps these two shocking events happening within a year focused people's attention elsewhere. But the aftermath of the sinking of the PS Slocum radically altered the German-American community of the Lower East Side forever...    
 
