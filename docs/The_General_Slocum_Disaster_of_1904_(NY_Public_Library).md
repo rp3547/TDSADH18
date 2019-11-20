@@ -6,6 +6,7 @@ by Valerie Wingfield, Archives Unit
 June 13, 2011
 
 ![PS General Slocum](../images/PS_General_Slocum.jpg)
+
 *Illustration by Samuel Ward Stanton*
 
 The General Slocum Disaster occurred on June 15, 1904. This tragedy is much less well known compared to the Triangle Shirtwaist Factory Fire of March 25, 1911, and the Titanic Disaster of April 15, 1912. Perhaps these two shocking events happening within a year focused people's attention elsewhere. But the aftermath of the sinking of the PS Slocum radically altered the German-American community of the Lower East Side forever...    
@@ -17,6 +18,7 @@ Chartered by the St. Mark's Evangelical Lutheran Church for $350.00, the passeng
 Most of the passengers were women and children. As the ship made its way up the East River, good times turned bad very quickly. There have been varying accounts of how the fire started, but it spread rapidly within a half hour of leaving dock around 9 a.m. The panic was horrific among the passengers as they faced death by drowning or being burned alive on the ship. It was a safe bet that most of the passengers could not swim, and the period clothing of the day worked against them. 
 
 ![The Damage](../images/The_Damage.jpg)
+
 *Steamer ‘Gen. Slocum’ June 15, 1904 above; North Brothers Island, East River, N.Y. below. Image ID: PS_MSS_CD8_109*
 
 
@@ -35,6 +37,7 @@ On January 27, 1906, justice was meted out to Captain Van Schaick by a jury of t
 Van Schaick would serve only part of his sentence at Sing Sing prison. He received a pardon (through the efforts of his wife) from President William Howard Taft in 1911. 
 
 ![Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St.](../images/Burial.jpg)
+
 *Burial of the ‘unidentified’ ‘Gen. Slocum’ disaster June 15, 1904: Corner Ave. A & 6th St. Image ID: PS_MSS_CD8_106*
 
 **German-American Community of the Lower East Side**
